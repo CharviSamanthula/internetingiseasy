@@ -1,0 +1,38 @@
+h1 {
+  font-family: "Lobster", cursive;
+}
+h2 {
+  font-family: "Lobster Two", cursive;
+}
+p {
+  font-family: "Dancing Script", cursive;
+}
+
+ul ol {
+  font-family: "Dancing Script", cursive;
+}
+
+h1:hover {
+  font-family: cursive;
+  color: #ffe268;
+  font-size: 80px;
+}
+
+h2:hover {
+  font-family: cursive;
+  color: #ffe268;
+}
+
+p:hover {
+  font-family: cursive;
+  color: #ffe268;
+}
+
+ul ol:hover {
+  font-family: cursive;
+  color: #ffe268;
+}
+
+hr:hover {
+  color: #ffe268;
+}
